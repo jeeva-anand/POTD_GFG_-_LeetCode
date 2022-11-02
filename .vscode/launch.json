@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Enemy",
+            "request": "launch",
+            "mainClass": "Problem_of_the_day_02_11_2022.Enemy",
+            "projectName": "Dailycode_924d95a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Median_in_a_row_wise_sorted_Matrix",
+            "request": "launch",
+            "mainClass": "Problem_of_the_day_01_11_2022.Median_in_a_row_wise_sorted_Matrix",
+            "projectName": "Dailycode_924d95a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Where_Will_the_Ball_Fall",
+            "request": "launch",
+            "mainClass": "Problem_of_the_day_01_11_2022.Where_Will_the_Ball_Fall",
+            "projectName": "Dailycode_924d95a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Median_in_a_row_wise_sorted_Matrix",
+            "request": "launch",
+            "mainClass": "Median_in_a_row_wise_sorted_Matrix",
+            "projectName": "Dailycode_924d95a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch SatisfyEqn",
+            "request": "launch",
+            "mainClass": "Code.Dailycode.Problem_of_the_day_31_10_2022.SatisfyEqn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
